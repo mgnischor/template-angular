@@ -6,7 +6,8 @@
         "start": "ng serve --verbose",
         "build": "ng build --progress --clear-screen --verbose --configuration production --subresource-integrity",
         "watch": "ng build --progress --clear-screen --verbose --watch --configuration development --subresource-integrity",
-        "test": "ng test --no-watch --no-progress --browsers=ChromeHeadless"
+        "test": "ng test --no-watch --no-progress --browsers=ChromeHeadless",
+        "lint": "ng lint"
     },
     "private": true,
     "dependencies": {
@@ -28,8 +29,9 @@
         "@angular/compiler-cli": "^18.2.0",
         "@eslint/js": "^9.14.0",
         "@types/jasmine": "~5.1.0",
+        "angular-eslint": "18.4.0",
         "autoprefixer": "^10.4.20",
-        "eslint": "^9.14.0",
+        "eslint": "^9.13.0",
         "globals": "^15.12.0",
         "jasmine-core": "~5.2.0",
         "karma": "~6.4.0",
@@ -42,6 +44,6 @@
         "prettier-plugin-tailwindcss": "^0.6.8",
         "tailwindcss": "^3.4.14",
         "typescript": "~5.5.2",
-        "typescript-eslint": "^8.13.0"
+        "typescript-eslint": "8.10.0"
     }
 }
