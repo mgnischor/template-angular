@@ -6,7 +6,7 @@
         "start": "ng serve --verbose",
         "build": "ng build --progress --clear-screen --verbose --configuration production --subresource-integrity",
         "watch": "ng build --progress --clear-screen --verbose --watch --configuration development --subresource-integrity",
-        "test": "ng test --progress"
+        "test": "ng test --no-watch --no-progress --browsers=ChromeHeadless"
     },
     "private": true,
     "dependencies": {
