@@ -1,6 +1,7 @@
 # Template - Angular
 
 Welcome! This repository hosts an base template for an Angular application with modern tools.
+![GitHub Actions](https://github.com/mgnischor/template-angular/actions/workflows/node.js.yml/badge.svg)
 
 ## Authors
 
