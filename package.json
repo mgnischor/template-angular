@@ -3,10 +3,10 @@
     "version": "0.0.0",
     "scripts": {
         "ng": "ng",
-        "start": "ng serve",
-        "build": "ng build",
-        "watch": "ng build --watch --configuration development",
-        "test": "ng test"
+        "start": "ng serve --verbose",
+        "build": "ng build --progress --clear-screen --verbose --configuration production --subresource-integrity",
+        "watch": "ng build --progress --clear-screen --verbose --watch --configuration development --subresource-integrity",
+        "test": "ng test --progress"
     },
     "private": true,
     "dependencies": {
