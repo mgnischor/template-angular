@@ -1,0 +1,7 @@
+# Internal folders
+.angular/
+.vscode/
+dist/
+
+# Node.js
+node_modules/
