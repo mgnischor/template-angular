@@ -2,8 +2,8 @@
     Project: [Project Name]
     Copyright (C) 2024-2025 [Author]
 
-    File: src/app/app.routes.ts
-    Description: Route structure for the application.
+    File: src/app/app.component.spec.ts
+    Description: Test cases for app component.
     Author: [Author] <author@email.com>
 
     Licensed under the Apache License, Version 2.0 (the "License");
