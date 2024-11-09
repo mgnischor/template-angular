@@ -20,6 +20,7 @@ Please read [LICENSE.md](LICENSE.md) for more information about using this templ
 -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 -   [Red Hat XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 -   [Red Hat Yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+-   [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 -   [Tailwind CSS](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 -   [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
